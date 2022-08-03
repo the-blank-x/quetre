@@ -1,3 +1,6 @@
+This fork always uses dark theme when Javascript is disabled, that's all.
+Below is the original README.
+
 # Quetre
 
 [![Delightful Humane Tech](https://codeberg.org/teaserbot-labs/delightful-humane-design/raw/branch/main/humane-tech-badge.svg)](https://codeberg.org/teaserbot-labs/delightful-humane-design)
