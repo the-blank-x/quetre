@@ -57,11 +57,8 @@ body {
 
   // styles to be applied when js is disabled
   &:not([js-enabled]) {
-    // if the user prefers dark theme
-    @media (prefers-color-scheme: dark) {
-      // using dark theme instead of default one
-      @include get-themed-vars(dark);
-    }
+    // using dark theme instead of default one
+    @include get-themed-vars(dark);
   }
 
   // disabling fonts for webkit
